@@ -1,89 +1,39 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rylie Branson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Rylie Branson
+College student at BYU-I; Aspiring Certified Public Accountant.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bra22005@byui.edu">bra22005@byui.edu</a>
+| <a href="https://www.linkedin.com/in/rylie-branson-152568253/">My LinkedIn Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Attending Brigham Young University - Idaho as a full time student
 
-### Specialized in
+### Previous Jobs
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Development Assistant at Kitsap [Rescue Mission](https://kitsaprescue.org/) (2021 - 2022)
 
+Employee/Shift-lead at Cold Stone Creamery (2022 - 2023)
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Intern at [Onyx Financial Advisors](https://www.onyxfinancial.com/) (2024)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__Associate in Arts - Direct Transfer Agreement__
+__Olympic College, Bremerton.__ `2020 - 2022`
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Brigham Young University - Idaho, Rexburg__ `September 2022 - Current`
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
